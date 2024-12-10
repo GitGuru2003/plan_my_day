@@ -1,0 +1,1 @@
+ /Users/munibahmed/Desktop/flutter_final_project/task-manager/.dart_tool/flutter_build/d2277b1c757e510700095d2140359aaf/native_assets.yaml: 
